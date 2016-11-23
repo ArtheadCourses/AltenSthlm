@@ -1,4 +1,5 @@
 from functools import reduce
+
 def get_max(a, b):
     if a > b:
         return a
